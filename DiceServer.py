@@ -16,9 +16,6 @@ def connect(sid, environ):
 def disconnect(sid):
     print('disconnect ', sid)
 
-@sio.event
-def test(sid):
-    print("test")
     
 @sio.event
 def get_roll(sid, dice_info):
