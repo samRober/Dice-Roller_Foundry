@@ -1,0 +1,18 @@
+{
+    "name": "CameraDiceRoller",
+    "title": "Camera-Dice-Roller",
+    "description": "Reads Dice rolls from a Camera.",
+    "authors": [
+      {
+        "name": "Sam Robertson"
+      }
+    ],
+    "version": "1",
+    "scripts": [
+        "scripts/CameraDiceRoller.js"
+    ],
+    "styles": [
+        "styles/CameraDiceRoller.css"
+    ]
+ }
+  
